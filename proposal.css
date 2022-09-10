@@ -2,6 +2,7 @@ body{
     font-family: monotype corsiva;
     text-align:center ;
     font-family: 32px;
+    color:pink
 }
 h1{
     color:blanchedalmond;
@@ -9,5 +10,6 @@ h1{
 }
 
 p{
-    color:mediumseagreen;
+    background-color:red;
+    font-family: 'Times New Roman', Times, serif;
 }
